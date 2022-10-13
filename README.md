@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krishna Aluri</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=641krishna&label=Profile%20views&color=0e75b6&style=flat" alt="641krishna" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=641krishna" alt="641krishna" /></a> </p>
+:seedling: **I'm currently learning :** Full Stack Web Development
 
-<p align="left"> <a href="https://twitter.com/shrikrishnaalu1" target="blank"><img src="https://img.shields.io/twitter/follow/shrikrishnaalu1?logo=twitter&style=for-the-badge" alt="shrikrishnaalu1" /></a> </p>
+:handshake: I'm looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-- 🌱 I’m currently learning **React Native**
+:speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-- 💬 Ask me about **JavaScript, HTML , CSS ,ReactJS, MERN ,DSA**
+:goal_net: **2022 Goals :**  More than just coding, I love building applications and solving real world problems.
 
-- 📫 How to reach me **shrikrishnaaluri641@gmail.com**
+<!-- :mailbox: You can reach me at [chat](mailto:shrikrishnaaluri641@gmail.com)! -->
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg">
