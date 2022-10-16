@@ -7,7 +7,7 @@
 
 :handshake: I'm looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-:speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
+:speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb, Express, Node JS, Redux.
 
 :goal_net: **2022 Goals :**  More than just coding, I love building applications and solving real world problems.
 
