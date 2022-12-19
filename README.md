@@ -9,7 +9,17 @@
 
 :speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb, Express, Node JS, Redux.
 
-:goal_net: **2022 Goals :**  More than just coding, I love building applications and solving real world problems.
+📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a>
+
+ 🧷 My Portfolio :- <a href="641krishna.github.io/" alt="portfolio" >Portfolio</a>
+ 
+ - 👯 Group Project  [Travocity Website - Clone](https://github.com/641krishna/-descriptive-payment-4603)
+
+- 👯 Group Project  [Lovodo.com- Clone](https://github.com/sanajitjana/impolite-thunder-2431)
+
+- 👯 Group Project  [Banggood.com - Clone](https://github.com/brahmandeepak/7supremacy-masai) 
+    
+- 🔭 Individual Project [Animoto.com clone Website](https://github.com/641krishna/cheerful-notebook-6741)
 
 <!-- :mailbox: You can reach me at [chat](mailto:shrikrishnaaluri641@gmail.com)! -->
 
