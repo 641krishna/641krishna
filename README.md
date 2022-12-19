@@ -9,7 +9,7 @@
 
 :speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb, Express, Node JS, Redux.
 
-📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1QYnZzvWgHSURglhnAWdl3cT-ArKvWClm/view" alt="resume">Resume</a>
+📄 Know about my experiences:- <a href="https://drive.google.com/drive/folders/15Ey9O3MnjNQ4_R-9dheJpuGpCwHxgXhr?usp=sharing" alt="resume">Resume</a>
 
  🧷 My Portfolio :- <a href="641krishna.github.io/" alt="portfolio" >Portfolio</a>
  
